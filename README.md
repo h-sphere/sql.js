@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/552629/76405509-87025300-6388-11ea-86c9-af882abb00bd.png" width="40" height="40" />
+> ![IMPORTANT]
+> About this fork
+> This fork tries to combine changes made @jlongster to make SQL.JS work with Absurd.JS with all the changes that happened to SQL.JS project since.
+> It's being released as `@hypersphere/sql.js` package to npm and is being used in Obsidian SQLSeal library to provide local database solution for Obsidian.
 
 # SQLite compiled to JavaScript
 
